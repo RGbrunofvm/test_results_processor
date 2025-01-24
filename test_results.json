@@ -1,0 +1,14 @@
+{
+    "test_cases": [
+        {"name": "Login Test", "status": "pass", "execution_time": 1.2, "timestamp": "2025-01-24T01:00:00Z"},
+        {"name": "Signup Test", "status": "fail", "execution_time": 2.5, "timestamp": "2025-01-24T01:10:00Z"},
+        {"name": "Checkout Process", "status": "pass", "execution_time": 3.0, "timestamp": "2025-01-24T01:15:00Z"},
+        {"name": "Add to Cart", "status": "pass", "execution_time": 0.8, "timestamp": "2025-01-24T01:20:00Z"},
+        {"name": "Remove from Cart", "status": "fail", "execution_time": 1.1, "timestamp": "2025-01-24T01:25:00Z"},
+        {"name": "Search Feature", "status": "pass", "execution_time": 2.2, "timestamp": "2025-01-24T01:30:00Z"},
+        {"name": "Filter Results", "status": "fail", "execution_time": 2.9, "timestamp": "2025-01-24T01:35:00Z"},
+        {"name": "Sort Items", "status": "pass", "execution_time": 1.5, "timestamp": "2025-01-24T01:40:00Z"},
+        {"name": "Payment Gateway", "status": "fail", "execution_time": 3.8, "timestamp": "2025-01-24T01:45:00Z"},
+        {"name": "Logout Test", "status": "pass", "execution_time": 0.9, "timestamp": "2025-01-24T01:50:00Z"}
+    ]
+}

@@ -1,0 +1,599 @@
+2025-01-24 04:04:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:13 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:04:13 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:04:13 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:04:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:13 - INFO: Metrics Summary:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:13 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 04:04:13 - INFO: File successfully written: results/test_results.json
+2025-01-24 04:04:13 - INFO: Test results exported to: results/test_results.json
+2025-01-24 04:04:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:13 - INFO: Metrics Summary:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:13 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:04:13 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:04:13 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:04:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:13 - INFO: Metrics Summary:
+2025-01-24 04:04:13 - INFO: Total Tests: 10
+2025-01-24 04:04:13 - INFO: Passed Tests: 7
+2025-01-24 04:04:13 - INFO: Failed Tests: 3
+2025-01-24 04:04:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:29 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:29 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:04:29 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:04:29 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:04:29 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: Metrics Summary:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:29 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:29 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 04:04:29 - INFO: File successfully written: results/test_results.json
+2025-01-24 04:04:29 - INFO: Test results exported to: results/test_results.json
+2025-01-24 04:04:29 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: Metrics Summary:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:04:29 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:04:29 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:04:29 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:04:29 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:04:29 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:04:29 - INFO: Metrics Summary:
+2025-01-24 04:04:29 - INFO: Total Tests: 10
+2025-01-24 04:04:29 - INFO: Passed Tests: 7
+2025-01-24 04:04:29 - INFO: Failed Tests: 3
+2025-01-24 04:04:29 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:04:29 - INFO: Min Execution Time: 0.9
+2025-01-24 04:04:29 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:07:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:07:13 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:07:13 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:07:13 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:07:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: Metrics Summary:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:07:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:07:13 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 04:07:13 - INFO: File successfully written: results/test_results.json
+2025-01-24 04:07:13 - INFO: Test results exported to: results/test_results.json
+2025-01-24 04:07:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: Metrics Summary:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:07:13 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:07:13 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:07:13 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:07:13 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:07:13 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:07:13 - INFO: Metrics Summary:
+2025-01-24 04:07:13 - INFO: Total Tests: 10
+2025-01-24 04:07:13 - INFO: Passed Tests: 7
+2025-01-24 04:07:13 - INFO: Failed Tests: 3
+2025-01-24 04:07:13 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:07:13 - INFO: Min Execution Time: 0.9
+2025-01-24 04:07:13 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:08:56 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:08:56 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:08:56 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:08:56 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:08:56 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: Metrics Summary:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:08:56 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:08:56 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 04:08:56 - INFO: File successfully written: results/test_results.json
+2025-01-24 04:08:56 - INFO: Test results exported to: results/test_results.json
+2025-01-24 04:08:56 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: Metrics Summary:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:08:56 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:08:56 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:08:56 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:08:56 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:08:56 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:08:56 - INFO: Metrics Summary:
+2025-01-24 04:08:56 - INFO: Total Tests: 10
+2025-01-24 04:08:56 - INFO: Passed Tests: 7
+2025-01-24 04:08:56 - INFO: Failed Tests: 3
+2025-01-24 04:08:56 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:08:56 - INFO: Min Execution Time: 0.9
+2025-01-24 04:08:56 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:09:51 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:09:51 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:09:51 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:09:51 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:09:51 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: Metrics Summary:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:09:51 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:09:51 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 04:09:51 - INFO: File successfully written: results/test_results.json
+2025-01-24 04:09:51 - INFO: Test results exported to: results/test_results.json
+2025-01-24 04:09:51 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: Metrics Summary:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:09:51 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:09:51 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:09:51 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:09:51 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:09:51 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:09:51 - INFO: Metrics Summary:
+2025-01-24 04:09:51 - INFO: Total Tests: 10
+2025-01-24 04:09:51 - INFO: Passed Tests: 7
+2025-01-24 04:09:51 - INFO: Failed Tests: 3
+2025-01-24 04:09:51 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:09:51 - INFO: Min Execution Time: 0.9
+2025-01-24 04:09:51 - INFO: Max Execution Time: 4.7
+2025-01-24 04:30:03 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:31:14 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:31:14 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:31:14 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:31:14 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:31:14 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:31:14 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:31:14 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:31:14 - INFO: Total Tests: 10
+2025-01-24 04:31:14 - INFO: Passed Tests: 7
+2025-01-24 04:31:14 - INFO: Failed Tests: 3
+2025-01-24 04:31:14 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:31:14 - INFO: Min Execution Time: 0.9
+2025-01-24 04:31:14 - INFO: Max Execution Time: 4.7
+2025-01-24 04:31:14 - INFO: Metrics Summary:
+2025-01-24 04:31:14 - INFO: Total Tests: 10
+2025-01-24 04:31:14 - INFO: Passed Tests: 7
+2025-01-24 04:31:14 - INFO: Failed Tests: 3
+2025-01-24 04:31:14 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:31:14 - INFO: Min Execution Time: 0.9
+2025-01-24 04:31:14 - INFO: Max Execution Time: 4.7
+2025-01-24 04:32:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:32:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:32:54 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:32:54 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:32:54 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:32:54 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:32:54 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:32:54 - INFO: Total Tests: 10
+2025-01-24 04:32:54 - INFO: Passed Tests: 7
+2025-01-24 04:32:54 - INFO: Failed Tests: 3
+2025-01-24 04:32:54 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:32:54 - INFO: Min Execution Time: 0.9
+2025-01-24 04:32:54 - INFO: Max Execution Time: 4.7
+2025-01-24 04:32:54 - INFO: Metrics Summary:
+2025-01-24 04:32:54 - INFO: Total Tests: 10
+2025-01-24 04:32:54 - INFO: Passed Tests: 7
+2025-01-24 04:32:54 - INFO: Failed Tests: 3
+2025-01-24 04:32:54 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:32:54 - INFO: Min Execution Time: 0.9
+2025-01-24 04:32:54 - INFO: Max Execution Time: 4.7
+2025-01-24 04:33:50 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:33:50 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:33:50 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:33:50 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 04:33:50 - INFO: File successfully written: results/test_results.md
+2025-01-24 04:33:50 - INFO: Test results exported to: results/test_results.md
+2025-01-24 04:33:50 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:33:50 - INFO: Total Tests: 10
+2025-01-24 04:33:50 - INFO: Passed Tests: 7
+2025-01-24 04:33:50 - INFO: Failed Tests: 3
+2025-01-24 04:33:50 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:33:50 - INFO: Min Execution Time: 0.9
+2025-01-24 04:33:50 - INFO: Max Execution Time: 4.7
+2025-01-24 04:33:50 - INFO: Metrics Summary:
+2025-01-24 04:33:50 - INFO: Total Tests: 10
+2025-01-24 04:33:50 - INFO: Passed Tests: 7
+2025-01-24 04:33:50 - INFO: Failed Tests: 3
+2025-01-24 04:33:50 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:33:50 - INFO: Min Execution Time: 0.9
+2025-01-24 04:33:50 - INFO: Max Execution Time: 4.7
+2025-01-24 04:41:01 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:42:08 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:46:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:46:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:46:54 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:46:54 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 04:46:54 - INFO: File successfully written: results/test_results.csv
+2025-01-24 04:46:54 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 04:46:54 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:46:54 - INFO: Total Tests: 10
+2025-01-24 04:46:54 - INFO: Passed Tests: 7
+2025-01-24 04:46:54 - INFO: Failed Tests: 3
+2025-01-24 04:46:54 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:46:54 - INFO: Min Execution Time: 0.9
+2025-01-24 04:46:54 - INFO: Max Execution Time: 4.7
+2025-01-24 04:46:54 - INFO: Metrics Summary:
+2025-01-24 04:46:54 - INFO: Total Tests: 10
+2025-01-24 04:46:54 - INFO: Passed Tests: 7
+2025-01-24 04:46:54 - INFO: Failed Tests: 3
+2025-01-24 04:46:54 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:46:54 - INFO: Min Execution Time: 0.9
+2025-01-24 04:46:54 - INFO: Max Execution Time: 4.7
+2025-01-24 04:47:27 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:48:00 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:49:06 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:49:06 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 04:49:06 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 04:49:06 - INFO: Exporting 10 test cases to results/test_results.xlsx
+2025-01-24 04:49:06 - INFO: File successfully written: results/test_results.xlsx
+2025-01-24 04:49:06 - INFO: Test results exported to: results/test_results.xlsx
+2025-01-24 04:49:06 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 04:49:06 - INFO: Total Tests: 10
+2025-01-24 04:49:06 - INFO: Passed Tests: 7
+2025-01-24 04:49:06 - INFO: Failed Tests: 3
+2025-01-24 04:49:06 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:49:06 - INFO: Min Execution Time: 0.9
+2025-01-24 04:49:06 - INFO: Max Execution Time: 4.7
+2025-01-24 04:49:06 - INFO: Metrics Summary:
+2025-01-24 04:49:06 - INFO: Total Tests: 10
+2025-01-24 04:49:06 - INFO: Passed Tests: 7
+2025-01-24 04:49:06 - INFO: Failed Tests: 3
+2025-01-24 04:49:06 - INFO: Average Execution Time: 2.3099999999999996
+2025-01-24 04:49:06 - INFO: Min Execution Time: 0.9
+2025-01-24 04:49:06 - INFO: Max Execution Time: 4.7
+2025-01-24 10:41:52 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:41:52 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:41:52 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:41:52 - WARNING: No test results to process. Exiting.
+2025-01-24 10:41:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:41:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:41:56 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:41:56 - WARNING: No test results to process. Exiting.
+2025-01-24 10:42:02 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:02 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:02 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:42:02 - WARNING: No test results to process. Exiting.
+2025-01-24 10:42:06 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:06 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:06 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:42:06 - WARNING: No test results to process. Exiting.
+2025-01-24 10:42:16 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:16 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:42:16 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:42:16 - WARNING: No test results to process. Exiting.
+2025-01-24 10:43:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:44:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:44:56 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:44:56 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:44:56 - WARNING: No test results to process. Exiting.
+2025-01-24 10:45:15 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:45:15 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:45:15 - ERROR: \u274c JSON file 'test_results.json' does not exist.
+2025-01-24 10:45:15 - WARNING: No test results to process. Exiting.
+2025-01-24 10:48:20 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:48:20 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:48:20 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:48:20 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 10:48:20 - INFO: File successfully written: results/test_results.csv
+2025-01-24 10:48:20 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 10:48:20 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:48:20 - INFO: Total Tests: 10
+2025-01-24 10:48:20 - INFO: Passed Tests: 6
+2025-01-24 10:48:20 - INFO: Failed Tests: 4
+2025-01-24 10:48:20 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:48:20 - INFO: Min Execution Time: 0.8
+2025-01-24 10:48:20 - INFO: Max Execution Time: 3.8
+2025-01-24 10:48:20 - INFO: Metrics Summary:
+2025-01-24 10:48:20 - INFO: Total Tests: 10
+2025-01-24 10:48:20 - INFO: Passed Tests: 6
+2025-01-24 10:48:20 - INFO: Failed Tests: 4
+2025-01-24 10:48:20 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:48:20 - INFO: Min Execution Time: 0.8
+2025-01-24 10:48:20 - INFO: Max Execution Time: 3.8
+2025-01-24 10:48:48 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:48:48 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:48:48 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:48:48 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 10:48:48 - INFO: File successfully written: results/test_results.md
+2025-01-24 10:48:48 - INFO: Test results exported to: results/test_results.md
+2025-01-24 10:48:48 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:48:48 - INFO: Total Tests: 10
+2025-01-24 10:48:48 - INFO: Passed Tests: 6
+2025-01-24 10:48:48 - INFO: Failed Tests: 4
+2025-01-24 10:48:48 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:48:48 - INFO: Min Execution Time: 0.8
+2025-01-24 10:48:48 - INFO: Max Execution Time: 3.8
+2025-01-24 10:48:48 - INFO: Metrics Summary:
+2025-01-24 10:48:48 - INFO: Total Tests: 10
+2025-01-24 10:48:48 - INFO: Passed Tests: 6
+2025-01-24 10:48:48 - INFO: Failed Tests: 4
+2025-01-24 10:48:48 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:48:48 - INFO: Min Execution Time: 0.8
+2025-01-24 10:48:48 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:04 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:04 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:04 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:49:04 - INFO: Exporting 10 test cases to results/test_results.xlsx
+2025-01-24 10:49:04 - INFO: File successfully written: results/test_results.xlsx
+2025-01-24 10:49:04 - INFO: Test results exported to: results/test_results.xlsx
+2025-01-24 10:49:04 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:49:04 - INFO: Total Tests: 10
+2025-01-24 10:49:04 - INFO: Passed Tests: 6
+2025-01-24 10:49:04 - INFO: Failed Tests: 4
+2025-01-24 10:49:04 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:04 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:04 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:04 - INFO: Metrics Summary:
+2025-01-24 10:49:04 - INFO: Total Tests: 10
+2025-01-24 10:49:04 - INFO: Passed Tests: 6
+2025-01-24 10:49:04 - INFO: Failed Tests: 4
+2025-01-24 10:49:04 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:04 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:04 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:16 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:16 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:16 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:49:16 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 10:49:16 - INFO: File successfully written: results/test_results.json
+2025-01-24 10:49:16 - INFO: Test results exported to: results/test_results.json
+2025-01-24 10:49:16 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:49:16 - INFO: Total Tests: 10
+2025-01-24 10:49:16 - INFO: Passed Tests: 6
+2025-01-24 10:49:16 - INFO: Failed Tests: 4
+2025-01-24 10:49:16 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:16 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:16 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:16 - INFO: Metrics Summary:
+2025-01-24 10:49:16 - INFO: Total Tests: 10
+2025-01-24 10:49:16 - INFO: Passed Tests: 6
+2025-01-24 10:49:16 - INFO: Failed Tests: 4
+2025-01-24 10:49:16 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:16 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:16 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:21 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:21 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:21 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:49:21 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 10:49:21 - INFO: File successfully written: results/test_results.csv
+2025-01-24 10:49:21 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 10:49:21 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:49:21 - INFO: Total Tests: 10
+2025-01-24 10:49:21 - INFO: Passed Tests: 6
+2025-01-24 10:49:21 - INFO: Failed Tests: 4
+2025-01-24 10:49:21 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:21 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:21 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:21 - INFO: Metrics Summary:
+2025-01-24 10:49:21 - INFO: Total Tests: 10
+2025-01-24 10:49:21 - INFO: Passed Tests: 6
+2025-01-24 10:49:21 - INFO: Failed Tests: 4
+2025-01-24 10:49:21 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:21 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:21 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:54 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:54 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:49:54 - INFO: Exporting 10 test cases to results/test_results.xlsx
+2025-01-24 10:49:54 - INFO: File successfully written: results/test_results.xlsx
+2025-01-24 10:49:54 - INFO: Test results exported to: results/test_results.xlsx
+2025-01-24 10:49:54 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:49:54 - INFO: Total Tests: 10
+2025-01-24 10:49:54 - INFO: Passed Tests: 6
+2025-01-24 10:49:54 - INFO: Failed Tests: 4
+2025-01-24 10:49:54 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:54 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:54 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:54 - INFO: Metrics Summary:
+2025-01-24 10:49:54 - INFO: Total Tests: 10
+2025-01-24 10:49:54 - INFO: Passed Tests: 6
+2025-01-24 10:49:54 - INFO: Failed Tests: 4
+2025-01-24 10:49:54 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:54 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:54 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:58 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:58 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:49:58 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:49:58 - INFO: Exporting 10 test cases to results/test_results.md
+2025-01-24 10:49:58 - INFO: File successfully written: results/test_results.md
+2025-01-24 10:49:58 - INFO: Test results exported to: results/test_results.md
+2025-01-24 10:49:58 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:49:58 - INFO: Total Tests: 10
+2025-01-24 10:49:58 - INFO: Passed Tests: 6
+2025-01-24 10:49:58 - INFO: Failed Tests: 4
+2025-01-24 10:49:58 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:58 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:58 - INFO: Max Execution Time: 3.8
+2025-01-24 10:49:58 - INFO: Metrics Summary:
+2025-01-24 10:49:58 - INFO: Total Tests: 10
+2025-01-24 10:49:58 - INFO: Passed Tests: 6
+2025-01-24 10:49:58 - INFO: Failed Tests: 4
+2025-01-24 10:49:58 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:49:58 - INFO: Min Execution Time: 0.8
+2025-01-24 10:49:58 - INFO: Max Execution Time: 3.8
+2025-01-24 10:50:03 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:50:03 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:50:03 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:50:03 - INFO: Exporting 10 test cases to results/test_results.json
+2025-01-24 10:50:03 - INFO: File successfully written: results/test_results.json
+2025-01-24 10:50:03 - INFO: Test results exported to: results/test_results.json
+2025-01-24 10:50:03 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:50:03 - INFO: Total Tests: 10
+2025-01-24 10:50:03 - INFO: Passed Tests: 6
+2025-01-24 10:50:03 - INFO: Failed Tests: 4
+2025-01-24 10:50:03 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:50:03 - INFO: Min Execution Time: 0.8
+2025-01-24 10:50:03 - INFO: Max Execution Time: 3.8
+2025-01-24 10:50:03 - INFO: Metrics Summary:
+2025-01-24 10:50:03 - INFO: Total Tests: 10
+2025-01-24 10:50:03 - INFO: Passed Tests: 6
+2025-01-24 10:50:03 - INFO: Failed Tests: 4
+2025-01-24 10:50:03 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:50:03 - INFO: Min Execution Time: 0.8
+2025-01-24 10:50:03 - INFO: Max Execution Time: 3.8
+2025-01-24 10:50:05 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:50:05 - INFO: \U0001f680 Logging configured successfully.
+2025-01-24 10:50:05 - INFO: \U0001f4c2 Loaded 10 test cases from JSON.
+2025-01-24 10:50:05 - INFO: Exporting 10 test cases to results/test_results.csv
+2025-01-24 10:50:05 - INFO: File successfully written: results/test_results.csv
+2025-01-24 10:50:05 - INFO: Test results exported to: results/test_results.csv
+2025-01-24 10:50:05 - INFO: \U0001f4ca Calculated test metrics:
+2025-01-24 10:50:05 - INFO: Total Tests: 10
+2025-01-24 10:50:05 - INFO: Passed Tests: 6
+2025-01-24 10:50:05 - INFO: Failed Tests: 4
+2025-01-24 10:50:05 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:50:05 - INFO: Min Execution Time: 0.8
+2025-01-24 10:50:05 - INFO: Max Execution Time: 3.8
+2025-01-24 10:50:05 - INFO: Metrics Summary:
+2025-01-24 10:50:05 - INFO: Total Tests: 10
+2025-01-24 10:50:05 - INFO: Passed Tests: 6
+2025-01-24 10:50:05 - INFO: Failed Tests: 4
+2025-01-24 10:50:05 - INFO: Average Execution Time: 1.9899999999999998
+2025-01-24 10:50:05 - INFO: Min Execution Time: 0.8
+2025-01-24 10:50:05 - INFO: Max Execution Time: 3.8
